@@ -1,0 +1,120 @@
+-----------------------------------------------------------------------------------
+First Call for Papers - FEFM 2019
+
+===================================================================================
+1st International Workshop "Formal Methods - Fun for Everybody"
+===================================================================================
+
+https://fefm.github.io
+
+Bergen, Norway, 2-3 December 2019
+
+Co-located with iFM 2019
+
+-----------------------------------------------------------------------------------
+Submission link: coming soon
+Paper Submission deadline: Monday 30 September 2019
+Paper Notification: Friday 1 November 2019
+-----------------------------------------------------------------------------------
+
+The largest transformations that universities make to industrial
+practices is through releasing legions of graduates every year. These
+graduates challenge established processes, and pave ways for new
+approaches. The standard CS graduate leaves university with either no
+knowledge of Formal Methods or a hatred for Formal Methods. Unless this
+situation is changed, Formal Methods will never be accepted in industry.
+
+This workshop explores ways of how to utilize this pathway to
+transformation for spreading Formal Methods. In current practice, FM
+are often taught by theoreticians, who (ab)use their FM courses to teach
+theoretical concepts rather than putting FMs in a SE context. The
+workshop's vision is that FMs ought to be taught in such a way that
+every student can have fun with it. But how can this be achieved?
+
+In order to answer this question the workshop welcomes participants from
+Formal methods as well as from education to exchange their views and
+perspectives. We aim to formulate a joint white paper that collects the
+outcomes of discussion and activities at the workshop. This white paper shall
+be circulated to educational bodies in charge of giving recommendations on
+curriculum development and will be published in the postproceedings.
+
+
+-----------------------------------------------------------------------------------
+TOPICS AND WORKSHOP FORMAT
+-----------------------------------------------------------------------------------
+
+The workshop invites contributions that address this question, which
+include but are not limited to
+
+  Experience reports by teachers and students;
+  New teaching approaches, e.g. games;
+  Education-oriented research or classroom experience ;
+  Innovative teaching techniques or pedagogical tools ;
+  Curricular innovations or initiatives;
+  Innovative industry-education collaboration interventions;
+  Didactics and methods of teaching and assessment;
+  Combination of teaching and research;
+  Post-hoc analysis of successes and failures in teaching and learning;
+  Collaborative Learning;
+  Technology transfer to industry;
+  Developing student skills, e.g. on abstract thinking and logical reasoning.
+
+for university and pre-university education.
+
+The workshop will consist of contributed and invited talks, including
+a living lab on teaching Formal Methods with Fun and facilitated discussions
+Leading to the formulation of the white paper.
+
+
+-----------------------------------------------------------------------------------
+SUBMISSION AND PUBLICATION
+-----------------------------------------------------------------------------------
+
+The workshop welcomes three different categories of submissions:
+
+a) regular papers: 15 pages + references;
+b) short papers:  6-8 pages + references;
+c) preshortsentations: up to 4 pages + references.
+
+Regular and short papers need to make original contributions and
+will be published in the post-proceedings; for this Springer LNCS
+have been requested.
+Submission of already publish  work as a presentation is welcome.
+
+Submissions can take the form of research papers, position papers,
+reports on teaching experience, reports on learning experience.
+There are plans for a follow-up special issue in a journal on education.
+
+
+-----------------------------------------------------------------------------------
+IMPORTANT DATES
+-----------------------------------------------------------------------------------
+
+Short and regular paper submission deadline: Monday 30 September 2019
+Short and regular paper notification: Friday 1 November 2019
+Presentation submission deadline: Saturday 2 November 2019
+Presentations notification: Wednesday 6 November 2019
+Workshop: Monday 2 and Tuesday 3 December 2019
+Camera ready papers for post-proceedings: Monday 20 January 2020
+
+
+-----------------------------------------------------------------------------------
+PROGRAM CO-CHAIRS
+-----------------------------------------------------------------------------------
+
+* Antonio Cerone, Department of Computer Science, Nazarbayev University, Kazakhstan
+* Markus Roggenbach, Computational Foundry, Swansea University, UK
+
+
+-----------------------------------------------------------------------------------
+PROGRAM COMMITTEE
+-----------------------------------------------------------------------------------
+
+TBA
+
+
+-----------------------------------------------------------------------------------
+CONTACT
+-----------------------------------------------------------------------------------
+
+All inquiries concerning submissions should be sent to the Program Co-chair
