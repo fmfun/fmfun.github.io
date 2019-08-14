@@ -78,8 +78,8 @@ templates available at http://www.springer.de/comp/lncs/authors.html.
 
 The workshop welcomes three different categories of submissions:
 
-a) Regular papers: 15 pages + references;
-b) Short papers:  6-8 pages + references;
+a) Regular papers: up to 15 pages + references;
+b) Short papers: 6-8 pages + references;
 c) Presentations: up to 4 pages + references.
 
 Regular and Short papers need to make original contributions and
@@ -111,7 +111,7 @@ PROGRAM CO-CHAIRS
 -----------------------------------------------------------------------------------
 
 * Antonio Cerone, Department of Computer Science, Nazarbayev University, Kazakhstan
-* Markus Roggenbach, Computational Foundry, Swansea University, UK
+* Markus Roggenbach, Department of Computer Science, Swansea University, UK
 
 
 -----------------------------------------------------------------------------------
