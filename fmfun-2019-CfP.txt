@@ -12,9 +12,11 @@ Bergen, Norway, 2-3 December 2019
 Co-located with iFM 2019
 
 -----------------------------------------------------------------------------------
-Submission link: coming soon
-Paper Submission deadline: Monday 30 September 2019
-Paper Notification: Friday 1 November 2019
+Submission link: https://easychair.org/conferences/?conf=fmfun2019.
+Regular/Short Paper Abstract Submission deadline: Monday 7 October 2019 (EXTENDED)
+Regular/Short Paper Submission deadline: Monday 14 October 2019 (EXTENDED)
+Presentation Submission deadline: Monday 21 October 2019 (EXTENDED)
+Paper and Presentation Notification: Friday 1 November 2019
 -----------------------------------------------------------------------------------
 
 The largest transformations that universities make to industrial
@@ -107,6 +109,13 @@ Camera ready papers for post-proceedings: Monday 20 January 2020
 
 
 -----------------------------------------------------------------------------------
+KEYNOTE SPEAKERS
+-----------------------------------------------------------------------------------
+* Magne Haveraaen, University of Bergen, Norway
+* Peter Ölveczky, University of Oslo, Norway
+
+
+-----------------------------------------------------------------------------------
 PROGRAM CO-CHAIRS
 -----------------------------------------------------------------------------------
 
@@ -118,7 +127,32 @@ PROGRAM CO-CHAIRS
 PROGRAM COMMITTEE
 -----------------------------------------------------------------------------------
 
-TBA
+* Luís Barbosa, University of Minho, Portugal
+* Hubert Baumeister, Technical University of Denmark, Denmark
+* Antonio Cerone, Nazarbayev University, Kazakhstan (Program Co-chair)
+* Ming Chai, Beijing Jiaotong University, China
+* Tom Crick, Swansea University, UK
+* Sabine Glesner, Technical University Berlin, Germany
+* Jan Friso Groote, Eindhoven University of Technology, The Netherlands
+* Stefan Gruner, University of Pretoria, South Africa
+* Klaus Havelund, NASA Jet Propulsion Laboratory, USA
+* Magne Haveraaen, University of Bergen, Norway
+* Karl Lermer, Zurich University of Applied Sciences, Switzerland
+* Bas Luttik, Eindhoven University of Technology, The Netherlands
+* Kathy Malone, Nazarbayev University, Kazakhstan
+* Faron Moller, Swansea University, UK
+* Hans de Nivelle, Nazarbayev University, Kazakhstan
+* Peter Ölveczky, University of Oslo, Norway
+* Carlo Gustavo Lopez Pombo, Universidad de Buenos Aires and CONICET, Argentina
+* Lucia Rapanotti, Open University, UK
+* Steve Reeves, University of Waikato, New Zealand
+* Markus Roggenbach, Swansea University, UK  (Program Co-chair)
+* Holger Schlingloff, Fraunhofer FOKUS and Humboldt University, Germany
+* Gerardo Schneider, Chalmers | University of Gothenburg, Sweden
+* Siraj Shaikh, Coventry University, UK
+* Ben Tyler, Nazarbayev University, Kazakhstan
+* Janis Voigtländer, University of Duisburg-Essen, Germany
+* Ayman Wahba, Ain Shams University, Egypt
 
 
 -----------------------------------------------------------------------------------
