@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------
-First Call for Papers - FMFun 2019
+Call for Papers - FMFun 2019
 
 ===================================================================================
 1st International Workshop "Formal Methods - Fun for Everybody"
