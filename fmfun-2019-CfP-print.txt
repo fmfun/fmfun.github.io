@@ -123,8 +123,4 @@ PROGRAM CO-CHAIRS
 * Markus Roggenbach, Department of Computer Science, Swansea University, UK
 
 
------------------------------------------------------------------------------------
-CONTACT
------------------------------------------------------------------------------------
-
 Inquiries concerning submissions should be sent to fmfun2019 AT easychair DOT org.
