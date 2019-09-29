@@ -1,0 +1,133 @@
+-----------------------------------------------------------------------------------
+Call for Papers - FMFun 2019
+
+===================================================================================
+1st International Workshop "Formal Methods - Fun for Everybody"
+===================================================================================
+
+https://fefm.github.io
+
+Bergen, Norway, 2-3 December 2019
+
+Co-located with iFM 2019
+
+-----------------------------------------------------------------------------------
+Submission link: https://easychair.org/conferences/?conf=fmfun2019.
+Short and regular papers abstract submission deadline: Monday 7 October 2019 (EXTENDED)
+Short and regular papers submission deadline: Monday 14 October 2019 (EXTENDED)
+Short and regular paper notification: Friday 1 November 2019
+Presentation Submission deadline: Saturday 2 November 2019
+Presentation Notification: Wednesday 6 November 2019
+-----------------------------------------------------------------------------------
+
+The largest transformations that universities make to industrial
+practices is through releasing legions of graduates every year. These
+graduates challenge established processes, and pave ways for new
+approaches. The standard CS graduate leaves university with either no
+knowledge of Formal Methods or a hatred for Formal Methods. Unless this
+situation is changed, Formal Methods will never be accepted in industry.
+
+This workshop explores ways of how to utilize this pathway to
+transformation for spreading Formal Methods. In current practice, FM
+are often taught by theoreticians, who (ab)use their FM courses to teach
+theoretical concepts rather than putting FMs in a SE context. The
+workshop's vision is that FMs ought to be taught in such a way that
+every student can have fun with it. But how can this be achieved?
+
+In order to answer this question the workshop welcomes participants from
+Formal methods as well as from education to exchange their views and
+perspectives. We aim to formulate a joint white paper that collects the
+outcomes of discussion and activities at the workshop. This white paper shall
+be circulated to educational bodies in charge of giving recommendations on
+curriculum development and will be published in the postproceedings.
+
+
+-----------------------------------------------------------------------------------
+TOPICS AND WORKSHOP FORMAT
+-----------------------------------------------------------------------------------
+
+The workshop invites contributions that address this question, which
+include but are not limited to
+
+  Experience reports by teachers and students;
+  New teaching approaches, e.g. games;
+  Education-oriented research or classroom experience ;
+  Innovative teaching techniques or pedagogical tools ;
+  Curricular innovations or initiatives;
+  Innovative industry-education collaboration interventions;
+  Didactics and methods of teaching and assessment;
+  Combination of teaching and research;
+  Post-hoc analysis of successes and failures in teaching and learning;
+  Collaborative Learning;
+  Technology transfer to industry;
+  Developing student skills, e.g. on abstract thinking and logical reasoning;
+  Comparison of formal methods from a teaching/learning perspective;
+  Children education and formal methods;
+
+for university and pre-university education.
+
+The workshop will consist of contributed and invited talks, including
+a living lab on teaching Formal Methods with Fun and facilitated discussions
+Leading to the formulation of the white paper.
+
+
+-----------------------------------------------------------------------------------
+SUBMISSION AND PUBLICATION
+-----------------------------------------------------------------------------------
+
+Authors are invited to submit research contributions or experience reports,
+via Easychair (https://easychair.org/my/conference?conf=fmfun2019).
+
+All papers should be written in English and prepared using the specific LNCS
+templates available at http://www.springer.de/comp/lncs/authors.html.
+
+The workshop welcomes three different categories of submissions:
+
+a) Regular papers: up to 15 pages + references;
+b) Short papers: 6-8 pages + references;
+c) Presentations: up to 4 pages + references.
+
+Regular and Short papers need to make original contributions and
+will be published in the post-proceedings; for this Springer LNCS
+have been requested. Short papers and Presentations can discuss
+new ideas which are at an early stage of development and which have
+not yet been thoroughly evaluated.
+Submission of already publish work as a Presentation is welcome.
+
+Submissions can take the form of research papers, position papers,
+survey papers, reports on teaching experience, reports on learning experience.
+There are plans for a follow-up special issue in a journal on education.
+
+
+-----------------------------------------------------------------------------------
+IMPORTANT DATES
+-----------------------------------------------------------------------------------
+
+Short and regular paper submission deadline: Monday 30 September 2019
+Short and regular paper notification: Friday 1 November 2019
+Presentation submission deadline: Saturday 2 November 2019
+Presentations notification: Wednesday 6 November 2019
+Workshop: Monday 2 and Tuesday 3 December 2019
+Camera ready papers for post-proceedings: Monday 20 January 2020
+
+
+-----------------------------------------------------------------------------------
+KEYNOTE SPEAKERS
+-----------------------------------------------------------------------------------
+* Magne Haveraaen, University of Bergen, Norway
+* Peter Ölveczky, University of Oslo, Norway
+
+
+-----------------------------------------------------------------------------------
+PROGRAM CO-CHAIRS
+-----------------------------------------------------------------------------------
+
+* Antonio Cerone, Department of Computer Science, Nazarbayev University, Kazakhstan
+* Markus Roggenbach, Department of Computer Science, Swansea University, UK
+
+
+-----------------------------------------------------------------------------------
+CONTACT
+-----------------------------------------------------------------------------------
+
+Inquiries concerning submissions should be sent to fmfun2019 AT easychair DOT org.
