@@ -60,7 +60,9 @@ include but are not limited to
   Post-hoc analysis of successes and failures in teaching and learning;
   Collaborative Learning;
   Technology transfer to industry;
-  Developing student skills, e.g. on abstract thinking and logical reasoning.
+  Developing student skills, e.g. on abstract thinking and logical reasoning;
+  Comparison of formal methods from a teaching/learning perspective;
+  Children education and formal methods.
 
 for university and pre-university education.
 
