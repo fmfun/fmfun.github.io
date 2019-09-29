@@ -13,10 +13,11 @@ Co-located with iFM 2019
 
 -----------------------------------------------------------------------------------
 Submission link: https://easychair.org/conferences/?conf=fmfun2019.
-Regular/Short Paper Abstract Submission deadline: Monday 7 October 2019 (EXTENDED)
-Regular/Short Paper Submission deadline: Monday 14 October 2019 (EXTENDED)
-Presentation Submission deadline: Monday 21 October 2019 (EXTENDED)
-Paper and Presentation Notification: Friday 1 November 2019
+Short and regular papers abstract submission deadline: Monday 7 October 2019 (EXTENDED)
+Short and regular papers submission deadline: Monday 14 October 2019 (EXTENDED)
+Short and regular paper notification: Friday 1 November 2019
+Presentation Submission deadline: Saturday 2 November 2019
+Presentation Notification: Wednesday 6 November 2019
 -----------------------------------------------------------------------------------
 
 The largest transformations that universities make to industrial
