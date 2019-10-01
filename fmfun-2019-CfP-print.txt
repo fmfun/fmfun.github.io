@@ -5,7 +5,7 @@ Call for Papers - FMFun 2019
 1st International Workshop "Formal Methods - Fun for Everybody"
 ===================================================================================
 
-https://fefm.github.io
+https://fmfun.github.io
 Bergen, Norway, 2-3 December 2019, Co-located with iFM 2019
 
 -----------------------------------------------------------------------------------
